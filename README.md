@@ -1,4 +1,4 @@
-# Regex Bible
+# 🍭 Regex Bible
 
 ## Tools
 
